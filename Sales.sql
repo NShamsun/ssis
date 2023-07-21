@@ -1,0 +1,1 @@
+Select * From Sales Where productid = 20;
